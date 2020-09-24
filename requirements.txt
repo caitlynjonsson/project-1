@@ -1,1 +1,2 @@
 tweepy==3.9.0
+pronouncing==0.2.0
